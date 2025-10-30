@@ -14,7 +14,7 @@ Ce projet a été réalisé dans le cadre de mon Master 2, dans l’objectif d�
 
 ---
 
-## 🧠 Objectifs du projet
+## 🧠 Objectif du projet
 Aider un investisseur (avec peu d'expérience) souhaitant se positionner sur les <strong>marchés financiers</strong> dans le secteur de l’énergie, en identifiant les <strong>dynamiques de performance</strong> et de <strong>stabilité</strong> des principaux ETF énergétiques.
 
 ---
