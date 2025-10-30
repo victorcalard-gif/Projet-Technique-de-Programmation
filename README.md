@@ -38,5 +38,3 @@ Aider un investisseur (avec peu d'expérience) souhaitant se positionner sur les
 📧 Contact : *victor.calard2@orange.fr*
 
 ---
-
-## 📂 Structure du dépôt
