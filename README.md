@@ -28,21 +28,14 @@ Aider un investisseur (avec peu d'expérience) souhaitant se positionner sur les
 | **Jupyter Notebook** | Analyse et génération du rapport |
 | **HTML / CSS** | Mise en forme finale et intégration du bouton “Masquer le code” |
 
----
-
-## 📈 Aperçu du rendu
-Voici un aperçu de la page interactive exportée :
-![Aperçu du projet](./preview.png)
-
-*(Optionnel : tu peux ajouter une capture d’écran de ton rapport, par ex. `preview.png`.)*
 
 ---
 
 ## 👤 Auteur
 **Victor Calard**  
-🎓 Étudiant en Master 2 — Data Science & Analyse Quantitative  
+🎓 Étudiant en Master 2 — Système d'Information Économique et Financière (MBFA)  
 🔗 [LinkedIn](https://www.linkedin.com/in/victor-calard-02581637a/)  
-📧 Contact : *victor.calard@etu.univ-...* *(optionnel)*
+📧 Contact : *victor.calard2@orange.fr*
 
 ---
 
