@@ -1,4 +1,4 @@
-# 📊 Projet Technique de Programmation — Analyse de 3 ETF du secteur de l’énergie
+# Projet Technique de Programmation — Analyse de 3 ETF du secteur de l’énergie
 
 Ce projet a été réalisé dans le cadre de mon Master 2, dans l’objectif d’analyser la **performance, le risque et la corrélation** entre trois ETF représentant différentes sources d’énergie :
 - **IXC** – Énergie fossile (pétrole, gaz)
@@ -14,12 +14,12 @@ Ce projet a été réalisé dans le cadre de mon Master 2, dans l’objectif d�
 
 ---
 
-## 🧠 Objectif du projet
+## Objectif du projet
 Aider un investisseur (avec peu d'expérience) souhaitant se positionner sur les <strong>marchés financiers</strong> dans le secteur de l’énergie, en identifiant les <strong>dynamiques de performance</strong> et de <strong>stabilité</strong> des principaux ETF énergétiques.
 
 ---
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 | Outil / Langage | Usage principal |
 |------------------|-----------------|
 | **Python (pandas, numpy)** | Traitement et préparation des données |
